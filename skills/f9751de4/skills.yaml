@@ -1,0 +1,25 @@
+skills:
+- description: 导航到百度的主首页。
+  intent_keywords:
+  - 进入首页
+  - 回到主页
+  skill_id: navigate_home
+  steps:
+  - action: click
+    target_selector: .toindex
+- description: 在页面上的不同百度关联服务（新闻，hao123，地图，贴吧，视频）之间进行导航。
+  intent_keywords:
+  - 切换服务
+  - 转入模块
+  skill_id: switch_service
+  steps:
+  - action: click
+    target_selector: .mnav
+- description: 执行百度网站的登录操作。
+  intent_keywords:
+  - 登录系统
+  - 用户登录
+  skill_id: login_to_system
+  steps:
+  - action: click
+    target_selector: .lb

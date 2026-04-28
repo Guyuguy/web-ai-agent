@@ -1,0 +1,29 @@
+skills:
+- description: 在百度搜索框输入关键词并点击搜索按钮
+  intent_keywords:
+  - 搜索
+  - search
+  - 查询
+  skill_id: search_baidu
+  steps:
+  - action: input
+    target_selector: '#kw'
+    value: '{search_text}'
+  - action: click
+    target_selector: '#su'
+- description: 导航到百度的主首页
+  intent_keywords:
+  - 进入首页
+  - 回到主页
+  skill_id: navigate_home
+  steps:
+  - action: click
+    target_selector: '.toindex'
+- description: 登录百度账号
+  intent_keywords:
+  - 登录
+  - login
+  skill_id: login
+  steps:
+  - action: click
+    target_selector: '.lb'

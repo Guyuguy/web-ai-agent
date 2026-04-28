@@ -1,0 +1,307 @@
+{
+  "url": "https://www.baidu.com",
+  "title": "百度一下，你就知道",
+  "snapshot_at": "2026-04-28T14:10:04.470402",
+  "elements": [
+    {
+      "tag": "textarea",
+      "text": "<style data-for=\"result\" type=\"text/css\" >html{fon",
+      "selector": "#s_is_result_css",
+      "type": ""
+    },
+    {
+      "tag": "textarea",
+      "text": "<style data-for=\"result\" id=\"css_result\" type=\"tex",
+      "selector": "#s_index_off_css",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "百度首页",
+      "selector": ".toindex",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "设置",
+      "selector": ".pf",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "登录",
+      "selector": ".lb",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "新闻",
+      "selector": ".mnav",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "hao123",
+      "selector": ".mnav",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "地图",
+      "selector": ".mnav",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "贴吧",
+      "selector": ".mnav",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "视频",
+      "selector": ".mnav",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "图片",
+      "selector": ".mnav",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "网盘",
+      "selector": ".mnav",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "文库",
+      "selector": ".mnav",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "文心",
+      "selector": "#csaitab",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "搭子DuMate",
+      "selector": ".mnav",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "更多",
+      "selector": ".s-bri",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "翻译",
+      "selector": ".img-spacing",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "学术",
+      "selector": ".img-spacing",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "百科",
+      "selector": "a",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "知道",
+      "selector": ".img-spacing",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "健康",
+      "selector": ".img-spacing",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "营销推广",
+      "selector": ".img-spacing",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "直播",
+      "selector": ".img-spacing",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "音乐",
+      "selector": ".img-spacing",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "橙篇",
+      "selector": ".img-spacing",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "查看全部百度产品 >",
+      "selector": ".c-color-gray2",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "登录",
+      "selector": "#s-top-loginbtn",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "关闭热搜",
+      "selector": ".s-set-hotsearch",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "开启热搜",
+      "selector": ".s-set-hotsearch",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "selector": "#result_logo",
+      "type": ""
+    },
+    {
+      "tag": "textarea",
+      "text": "“阿sa”蔡卓妍宣布结婚",
+      "selector": "#chat-textarea",
+      "type": ""
+    },
+    {
+      "tag": "button",
+      "text": "百度一下",
+      "selector": "#chat-submit-button",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "复杂问题就找文心助手，深入思考回答更优\n",
+      "selector": ".guide-bub-container_2skZT",
+      "type": ""
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "“阿sa”蔡卓妍宣布结婚",
+      "selector": "#kw",
+      "type": ""
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "#su",
+      "type": "submit"
+    },
+    {
+      "tag": "a",
+      "text": "手写",
+      "selector": "a",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "拼音",
+      "selector": "a",
+      "type": ""
+    },
+    {
+      "tag": "a",
+      "text": "关闭",
+      "selector": "a",
+      "type": ""
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    },
+    {
+      "tag": "input",
+      "text": "",
+      "selector": "input",
+      "type": "hidden"
+    }
+  ]
+}
